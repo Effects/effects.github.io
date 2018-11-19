@@ -13,10 +13,10 @@ Yeahhhh....
 My Apps
 
 - Unicorn Maker
-Unicorn Maker is a app I made **for my little sister**.
+Unicorn Maker is a app I made for my little sister.
 github.com/Effects/UnicornMaker
 
-## The ending
+The ending
 Ok so like this is a ending. Dont expect me to ever post again unless like im like showing another app lol
 
-## I sawed this boat in half
+**I sawed this boat in half
