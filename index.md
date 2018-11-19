@@ -12,28 +12,11 @@ Yeahhhh....
 ```markdown
 My Apps
 
-# Unicorn Maker
-Unicorn Maker is a app I made for my little sister.
+- Unicorn Maker
+Unicorn Maker is a app I made **for my little sister**.
 github.com/Effects/UnicornMaker
 
+## The ending
+Ok so like this is a ending. Dont expect me to ever post again unless like im like showing another app lol
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Effects/effects.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## I sawed this boat in half
