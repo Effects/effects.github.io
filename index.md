@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Hello
 
-You can use the [editor on GitHub](https://github.com/Effects/effects.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, My name is Effects and this is my pawn shop
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Whats in my Pawn Shop?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Well, you see. I make apps... Like actual apps...
+Yeahhhh....
 
 ```markdown
 Syntax highlighted code block
